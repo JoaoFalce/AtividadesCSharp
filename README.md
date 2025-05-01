@@ -1,7 +1,7 @@
 # Projeto de Exercícios em C#
 
 ALUNOS PARTICIPANTES DA AVALIAÇÃO: 
-João Henrique Weigel Falce (githu.com/JoaoFalce);
+João Henrique Weigel Falce (https://github.com/JoaoFalce);
 Salomao Konjunski (https://github.com/SalomaoKonjunski)
 Luana de Brito Rodrigues (https://github.com/luanabrodriguess)
 
