@@ -1,0 +1,14 @@
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.AssemblyInfoInputs.cache
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.AssemblyInfo.cs
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaoh\AtividadeCSharp\bin\Debug\net9.0\AtividadeCSharp.exe
+C:\Users\joaoh\AtividadeCSharp\bin\Debug\net9.0\AtividadeCSharp.deps.json
+C:\Users\joaoh\AtividadeCSharp\bin\Debug\net9.0\AtividadeCSharp.runtimeconfig.json
+C:\Users\joaoh\AtividadeCSharp\bin\Debug\net9.0\AtividadeCSharp.dll
+C:\Users\joaoh\AtividadeCSharp\bin\Debug\net9.0\AtividadeCSharp.pdb
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.dll
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\refint\AtividadeCSharp.dll
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.pdb
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\AtividadeCSharp.genruntimeconfig.cache
+C:\Users\joaoh\AtividadeCSharp\obj\Debug\net9.0\ref\AtividadeCSharp.dll
