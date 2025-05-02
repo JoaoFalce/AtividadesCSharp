@@ -44,6 +44,4 @@ Este repositório contém uma coleção de exercícios realizados em C#. Cada ex
 ## Como Rodar o Projeto
 
 1. Certifique-se de ter o [Visual Studio](https://visualstudio.microsoft.com/) ou [VS Code](https://code.visualstudio.com/) com o .NET SDK instalado.
-2. Clone este repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+2. Clone este repositório para sua máquina local.
